@@ -104,6 +104,17 @@ Or use the provided `run.bat` (Windows only).
 - Not all features are production-stable; some are experimental.
 - All Python files are well-commented for clarity and learning purposes.
 
+## Known Issues
+
+- Nonsense game is untested
+  - The collaborative storytelling game (nonsense) has not been tested in live chat environments and may not function as intended.
+
+- Weekly activity tracking is broken
+  - The system responsible for counting messages and rewarding the most active users each week currently does not work.
+
+- Admin configuration is hardcoded
+  - Administrator privileges are assigned via hardcoded Telegram user IDs. There is no user-friendly or dynamic configuration system for admin roles.
+
 ## License
 
 This project is released under the MIT License.  
