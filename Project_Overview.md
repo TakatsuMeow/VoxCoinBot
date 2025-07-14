@@ -4,13 +4,13 @@
 
 ## Key Features
 
-- 🎰 **Casino**: Uses a chat currency ("воксценты") awarded for messages over 10 characters. Encourages meaningful conversation while allowing users to gamble and play.
-- 🃏 **UNO & "Nonsence"**: Includes classic UNO gameplay and an experimental "nonsense story" game, collaboratively written by users.
-- 🧠 **Markov Chain Neural Net**: Learns from up to 100,000 user messages to generate stylized chat responses.
-- 🥚 **Easter Eggs & Roleplay**: Responds to specific trigger phrases with randomized responses; allows custom roleplay "actions" (up to 10k entries).
-- 🥇 **Chat Activity Leaderboard**: (Currently broken) Weekly ranking of active users.
-- 🎵 **Song & Topic Recommender**: Users can request a random song or topic to discuss, both of which can be expanded by users.
-- 💸 **Multi-Currency System**:
+- **Casino**: Uses a chat currency ("воксценты") awarded for messages over 10 characters. Encourages meaningful conversation while allowing users to gamble and play.
+- **UNO & "Nonsence"**: Includes classic UNO gameplay and an experimental "nonsense story" game, collaboratively written by users.
+- **Markov Chain Neural Net**: Learns from up to 100,000 user messages to generate stylized chat responses.
+- **Easter Eggs & Roleplay**: Responds to specific trigger phrases with randomized responses; allows custom roleplay "actions" (up to 10k entries).
+- **Chat Activity Leaderboard**: (Currently broken) Weekly ranking of active users.
+- **Song & Topic Recommender**: Users can request a random song or topic to discuss, both of which can be expanded by users.
+- **Multi-Currency System**:
   - *Voxcents*: For casino activities.
   - *Voxcoins*: For internal economy (admin salaries, user rewards).
   - *TV-Coins*: For joining Rave sessions.
